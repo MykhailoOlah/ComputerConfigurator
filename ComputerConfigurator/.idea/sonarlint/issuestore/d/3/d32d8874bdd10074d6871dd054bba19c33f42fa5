@@ -1,0 +1,10 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "black" 3 times.(ƒÁ»‰8†¨“‘¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ä¿ùüÿÿÿÿ8–Î’‘¿1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å÷´Å8†¨“‘¿1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒÁ»‰8†¨“‘¿1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÝÆöÂÿÿÿÿÿ8†¨“‘¿1
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„Ù™™8†¨“‘¿1
+{	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úÌ‡Éÿÿÿÿÿ8†¨“‘¿1

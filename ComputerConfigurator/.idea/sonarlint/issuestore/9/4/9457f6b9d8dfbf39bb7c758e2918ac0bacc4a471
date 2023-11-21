@@ -1,0 +1,18 @@
+
+b	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Óıê8­ŞÎñ¾1
+m
+java:S1104	"PMake cost a static final constant or non-public and provide accessors if needed.(ÎµàÔ8¯ŞÎñ¾1
+q
+java:S1104
+"TMake computer a static final constant or non-public and provide accessors if needed.(šçŞ–8°ŞÎñ¾1
+G
+java:S1444	"*Make this "public static cost" field final(ÎµàÔ8°ŞÎñ¾1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â’ÿÿÿÿÿ
+^
+java:S1117W"<Rename "computer" which hides the field declared at line 10.(Æë˜õşÿÿÿÿ8¹ßÎñ¾1
+L	java:S106X"+Replace this use of System.out by a logger.(†ºá‰ùÿÿÿÿ8»ßÎñ¾1
+L	java:S106^"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ8ÈßÎñ¾1
+L	java:S106b"+Replace this use of System.out by a logger.(Ö´±×úÿÿÿÿ8ÊßÎñ¾1
+L	java:S106j"+Replace this use of System.out by a logger.(ÚßÎ»ÿÿÿÿÿ8ÌßÎñ¾1
+L	java:S106q"+Replace this use of System.out by a logger.(àğşÿÿÿÿ8ÍßÎñ¾1
+L	java:S106t"+Replace this use of System.out by a logger.(åãáüüÿÿÿÿ8ØßÎñ¾1
